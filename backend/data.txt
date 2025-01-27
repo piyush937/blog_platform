@@ -1,0 +1,10 @@
+ Mongo Db Atlas 
+ Connect Cluster Blog
+ 
+UserName - thakurpiyush16m    
+Password - KhbkvpJVyFkX0EAg
+
+ Compass URl-:  mongodb+srv://thakurpiyush16m:KhbkvpJVyFkX0EAg@cluster-blog.z5p8c.mongodb.net/
+
+
+ encoded URL -: mongodb+srv://thakurpiyush16m:7heYlk3d65a5Ong1%40cluster-blog.z5p8c.mongodb.net/

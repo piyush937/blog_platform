@@ -1,0 +1,25 @@
+/* Layout container to organize header, main, and footer */
+.layout-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure full height of the viewport */
+  }
+  
+  header {
+    flex-shrink: 0; /* Keep the header at its natural height */
+  }
+  
+  main {
+    flex-grow: 1; /* Main content takes up remaining space */
+    padding: 1rem;
+    background-color: #f7fafc; /* Optional: Background for content area */
+  }
+  
+  footer {
+    flex-shrink: 0; /* Keep the footer at its natural height */
+    background-color: #2d3748; /* Footer background color */
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+  
